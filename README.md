@@ -10,4 +10,3 @@ O responsável pelo site e blog foi : [Zé do Gás](http://instagram.com/@ZeDoGa
 (╯°□°）╯︵ ┻━┻
 ```
 
-# Auxilio visual de configuração de site Wordpress
